@@ -1,2 +1,5 @@
 # CookieRecipeFromMac
-A secret recipe hidden in mac
+A secret recipe found in mac
+
+# Open Terminal in Mac and type
+`Open /usr/share/emacs/22.1/etc/COOKIES`
